@@ -2,13 +2,13 @@ http://allatvapi.lol/
 https://allatvapi.lol/
 http://apiapprezerv.lol
 https://apiapprezerv.lol
-https://allatvcdn.lol
 http://allatvcdn.lol
-https://apiappup.click
+https://allatvcdn.lol
 http://apiappup.click
-https://apiapp.lol
+https://apiappup.click
 http://apiapp.lol
-https://apiapps.lol
+https://apiapp.lol
 http://apiapps.lol
+https://apiapps.lol
 http://apiapp.click
 https://apiapp.click
