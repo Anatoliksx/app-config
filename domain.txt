@@ -1,5 +1,3 @@
-https://allatvapi.lol/
-http://allatvapi.lol/
 http://apiapprezerv.lol
 https://apiapprezerv.lol
 http://allatvcdn.lol
